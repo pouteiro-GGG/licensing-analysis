@@ -1,0 +1,20 @@
+================================================================================
+                    COST CONTROL REPORT
+                    API Usage & Optimization Metrics
+================================================================================
+Generated: July 25, 2025 at 09:12 AM
+
+📊 COST SUMMARY
+--------------------------------------------------------------------------------
+
+Total API Calls:          4
+Cache Hits:               4
+Cache Misses:             4
+Cache Hit Rate:           50.0%
+Total Cost:               $0.2202
+Cost Savings:             $0.6000
+Net Cost:                 $-0.3798
+
+Efficiency Status:        🟠 Fair - Room for improvement
+
+================================================================================
