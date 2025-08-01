@@ -1,5 +1,5 @@
 # Licensing Analysis Repository
-
+ 
 ## Repository Structure
 
 ### Scripts
